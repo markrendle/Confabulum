@@ -1,0 +1,7 @@
+﻿{
+    "Data": {
+        "DefaultConnection": { 
+            "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnetvnext-Confabulum-20e18679-bed3-4441-a770-a66f80a19ca3;Trusted_Connection=True;MultipleActiveResultSets=true"
+        }
+    }
+}
